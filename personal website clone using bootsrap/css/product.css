@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(53, 133, 133);
+}
+.product{
+    margin: 6.7% 0;
+}
+.product h1{
+    text-align: center;
+    margin-top: 10%;
+    color:rgb(57, 220, 220) ;
+    font-family: sans-serif;
+}
+.product li,a{
+    color: aliceblue;
+    font-size: 2rem;
+    margin-left: 2%;
+}
+.product a:hover{
+    color: rgb(94, 210, 208);
+}

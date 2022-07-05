@@ -1,0 +1,50 @@
+body {
+    padding: 0;
+    margin: 0;
+    background-color: #393E46;
+    color: rgb(79, 207, 222);
+    font-family: sans-serif;
+}
+.header{
+    text-align: center;
+    font-size: 2rem;
+    font-family: sans-serif;
+    color: rgb(233, 131, 131);
+}
+.container{
+    margin: auto;
+    text-align: center;
+}
+.container h1{
+    font-family: cursive;
+    font-size: 3rem;
+}
+.dice{
+    display: inline-block;
+    margin: 0 5%;
+}
+a{
+    color: rgb(79, 207, 222);
+}
+
+a:hover{
+    color: rgb(77, 136, 143);
+}
+.play-link{
+    background-color: rgb(61, 97, 85);
+    margin: 2% auto;
+    width: 70px;
+    font-size: 2rem;
+    text-decoration: none;   
+}
+
+.footer{
+    margin: 2% 0;
+    padding: 1% 0;
+    background-color: #515b6b;
+    text-align: center;
+}
+.footer li{
+    display: inline-block;
+    margin: 1% 3%; 
+}
